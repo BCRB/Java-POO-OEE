@@ -1,12 +1,15 @@
 # Java-POO-OEE
 
 OEEjava
-OBJETIVO:  Desenvolver um sistema de gestão da eficiência produtiva
+OBJETIVO:  Desenvolver um sistema de gestão da produção
+
+MENU
+- Cockpit Operador
+- Cockpit Supervisor
+- Cockpit Gerente
+- Cockpit Diretor
 
 1. Ordem de Produção
-2. Apontamentos da produção;
-3. Relatório de Eficiência (OEE);
-4. Anexar plano de ação;
 
 PROJETO DESENVOLVIDO NA LINGUAGEM JAVA
 
